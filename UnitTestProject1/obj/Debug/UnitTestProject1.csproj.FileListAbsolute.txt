@@ -1,0 +1,23 @@
+C:\Users\DjoleObli\documents\visual studio 2013\Projects\authentication\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\DjoleObli\documents\visual studio 2013\Projects\authentication\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\DjoleObli\documents\visual studio 2013\Projects\authentication\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\DjoleObli\documents\visual studio 2013\Projects\authentication\UnitTestProject1\bin\Debug\authentication.dll
+C:\Users\DjoleObli\documents\visual studio 2013\Projects\authentication\UnitTestProject1\bin\Debug\authentication.pdb
+C:\Users\DjoleObli\documents\visual studio 2013\Projects\authentication\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\DjoleObli\documents\visual studio 2013\Projects\authentication\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\djordje\Downloads\csbook-authentication-master\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\djordje\Downloads\csbook-authentication-master\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\djordje\Downloads\csbook-authentication-master\UnitTestProject1\bin\Debug\authentication.dll
+C:\Users\djordje\Downloads\csbook-authentication-master\UnitTestProject1\bin\Debug\authentication.pdb
+C:\Users\djordje\Downloads\csbook-authentication-master\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\djordje\Downloads\csbook-authentication-master\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\djordje\Downloads\csbook-authentication-master\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\bin\Debug\authentication.dll
+D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\bin\Debug\authentication.pdb
+D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
