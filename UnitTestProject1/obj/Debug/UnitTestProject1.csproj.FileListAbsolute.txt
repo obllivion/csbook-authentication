@@ -21,3 +21,10 @@ D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\bin\Debug\Microso
 D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\master\USPEH2\csbook-authentication-master\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\git\csbook-authentication\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\git\csbook-authentication\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\git\csbook-authentication\UnitTestProject1\bin\Debug\authentication.dll
+C:\git\csbook-authentication\UnitTestProject1\bin\Debug\authentication.pdb
+C:\git\csbook-authentication\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\git\csbook-authentication\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\git\csbook-authentication\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

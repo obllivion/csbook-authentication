@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace UnitTestProject1
 {
     [TestClass]
-    public class UnitTest1
+    public class AuthUnitTest
     {
 
         public struct uPas

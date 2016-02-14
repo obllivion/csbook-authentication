@@ -1,0 +1,9 @@
+C:\git\csbook-authentication\authentication\bin\Debug\authentication.dll
+C:\git\csbook-authentication\authentication\bin\Debug\authentication.pdb
+C:\git\csbook-authentication\authentication\bin\Debug\System.Web.Http.dll
+C:\git\csbook-authentication\authentication\bin\Debug\System.Net.Http.Formatting.dll
+C:\git\csbook-authentication\authentication\bin\Debug\System.Web.Http.xml
+C:\git\csbook-authentication\authentication\bin\Debug\System.Net.Http.Formatting.xml
+C:\git\csbook-authentication\authentication\obj\Debug\authentication.csprojResolveAssemblyReference.cache
+C:\git\csbook-authentication\authentication\obj\Debug\authentication.dll
+C:\git\csbook-authentication\authentication\obj\Debug\authentication.pdb
